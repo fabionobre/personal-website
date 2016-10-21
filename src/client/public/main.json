@@ -1,0 +1,6 @@
+{
+	"menu": [
+		{"title": "ABOUT ME", "url": "something"},
+		{"title": "BLOG", "url": "blog_url"}
+	]
+}
